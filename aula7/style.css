@@ -1,0 +1,75 @@
+
+/*#grad{
+    width: 200px;
+    height: 200px;
+    background-image: linear-gradient(95deg ,red ,yellow);
+    background-image: radial-gradient(red, yellow);
+}*/
+/*
+div.vazio{
+    width: 200px;
+    height:200px;
+    position:absolute;
+    border:solid 1px black;
+    left:200px;
+    top:150px;
+}    
+div.transform{
+    width: 200px;
+    height:200px;    
+    position:absolute;
+    left:200px;
+    top:150px;
+    background-color: red;
+    transform:translate(10px,20px);
+    transform: rotateX(30deg);
+    transform: scale(2,1);
+    transform: skew(200deg,10grad);
+    transform: skewX(20deg);
+    transform: skewY(20deg);
+}*/
+/*
+div.transition{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    transition:all 2s;
+}
+div.transition:hover{
+    height: 400px;
+    width: 400px;
+    padding: 20px;
+    background-color: brown;
+}
+input{
+    width:100px;
+    height: 100px;
+    transition:all 2s;
+    
+}
+input:hover{
+    width: 200px;
+    font-size: 24px;
+}
+*/
+/* 
+@keyframes efeito {
+    0% { width: 100px; }
+    25% { width: 300px; }
+    50% { width: 200px;
+        background-color: red; }
+    75% { width: 300px;}
+    100% { width: 100px;
+        background-color:green;}
+}
+.container{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    animation-name: efeito;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
+    animation-delay:5s; 
+}
+*/
+
